@@ -1,0 +1,101 @@
+
+div.WooshERROR {
+	font-family: sans-serif; 
+	color:#7289DA;
+	margin: auto;
+ 	width: 50%;
+  	padding: 200px;
+}
+
+body.errorBody {
+	background-color:#2C2F33;
+}
+
+body.noWorkBody {
+	background-color:#2C2F33;
+}
+
+div.noWorkText {
+	font-family: 'Roboto', sans-serif;
+	color:#7289DA;
+	margin: auto;
+ 	width: 50%;
+  	padding: 200px;
+}
+
+body.homeBody {
+	background-color:#2C2F33;
+}
+
+div.inicialText {
+	font-family: 'Roboto', sans-serif;
+	color:#7289DA;
+	margin: auto;
+ 	width: 50%;
+  	padding: 200px;
+}
+div.creditsbar {
+	font-family: 'Roboto', sans-serif;
+	color:#7289DA;
+	display: inline-block;
+}
+}
+
+h1.iBigText {
+	margin: auto;
+  	font-size: 100;
+  	width: 50%;
+  	padding: 200px;
+}
+
+h1.iSmallText {
+	margin: auto;
+	padding: 200px;
+	width: 100%;
+  	padding: 300px;
+  	font-size: 50
+}
+
+button.RButton {
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+	box-shadow: 0 5px 0 #7289DA;
+	background-color: #5e73ba
+	
+}
+
+button.RBColor {
+	color: #f2f2f2;
+}
+
+#navbar2019 ul {
+    padding:0px;
+    margin:0px;
+    background-color:#23272A;
+    list-style:none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px
+}
+
+#navbar2019 ul li { display: inline; }
+
+#navbar2019 ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+
+#navbar2019 ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+
